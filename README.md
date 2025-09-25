@@ -21,3 +21,4 @@ Snowboarder Musti is a small Unity 2D snowboarding project. The game was origina
 📌 Note
 
 * This project was originally developed as a learning project. Now it’s being shared publicly for others who want to play or explore the code.
+* You can play the game on my Itch.io page : https://umuttaylanduran.itch.io/snow-boarder-musti
