@@ -1,4 +1,4 @@
-Snow Boarder Musti is a small Unity 2D snowboarding project. The game was originally developed as a simple way to learn and experiment with Sprite Shape Controller, Edge Collider, and Surface Effector 2D in Unity.
+Snowboarder Musti is a small Unity 2D snowboarding project. The game was originally developed as a simple way to learn and experiment with Sprite Shape Controller, Edge Collider, and Surface Effector 2D in Unity.
 
 ✨ Features
 
